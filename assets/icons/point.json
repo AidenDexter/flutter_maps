@@ -1,0 +1,38 @@
+{
+
+"coords":
+[
+    {
+        "ID": "1",
+        "longitude": "37.77125358581543",
+        "latitude": "55.695220017298006",
+        "comment": "First"
+    },
+    {
+        "ID": "3",
+        "longitude": "37.774085998535156",
+        "latitude": "55.6948336254372",
+        "comment": "Second"
+    },
+    {
+        "ID": "3",
+        "longitude": "37.77726173400878",
+        "latitude": "55.694567565310596",
+        "comment": "Third"
+    },
+    {
+        "ID": "4",
+        "Longitude": "37.7795654080958",
+        "latitude": "55.69437406762662",
+        "comment": "Fourth"
+    }
+]
+
+
+
+
+
+
+
+
+}
